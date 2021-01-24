@@ -13,9 +13,9 @@ This is a study of these technologies in order to create a basis for more robust
 Anyway, I hope that this brief study of these libraries will assist in the development of more robust tools for Data Scientists and Machine Learning Engineers in general. 
 If you can, please contribute and share your knowledge.
 
-**How to proceed to running this app**
+**How to proceed to running scripts**
 
-First, create a virtual environment
+For python scripts, first, create a virtual environment
 
 ``` python
 
@@ -37,12 +37,27 @@ Execute every script Python as the example below
 python db_oracle_connect.py
 
 ```
+Within each bash script there is information regarding packages needed to execute them.
 
-**Index:**
+For bash scripts, execute as the example below
+
+``` shell
+
+sh get_ip.sh 
+
+```
+
+
+**Index**
+
+***Python Scripts:***
 * [Connect to Oracle Database](encurtador.com.br/cyDK0)
 * [Scraping Facebook](encurtador.com.br/iyA36)
 * [Scraping Tweets Old version](encurtador.com.br/wELX5)
 * [Scraping Tweets](encurtador.com.br/mDKS2)
+
+***Shell Scripts***
+* [Get IP](encurtador.com.br/iIP02)
 
 
 **Links:**
