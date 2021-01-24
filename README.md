@@ -39,7 +39,7 @@ python db_oracle_connect.py
 ```
 
 **Index:**
-* [Conect to Oracle Database](encurtador.com.br/cyDK0)
+* [Connect to Oracle Database](encurtador.com.br/cyDK0)
 * [Scraping Facebook](encurtador.com.br/iyA36)
 * [Scraping Tweets Old version](encurtador.com.br/wELX5)
 * [Scraping Tweets](encurtador.com.br/mDKS2)
