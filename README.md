@@ -37,7 +37,7 @@ Execute every script Python as the example below
 python db_oracle_connect.py
 
 ```
-Within each bash script there is information regarding packages needed to execute them.
+**Within each bash script there is information regarding packages needed to execute them.**
 
 For bash scripts, execute as the example below
 
