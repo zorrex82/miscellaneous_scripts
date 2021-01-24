@@ -2,6 +2,7 @@
 # Author: Edinor Santos da Cunha Júnior
 # Email: edinorscjr@gmail.com
 # Script to retrieve IP Address
+# Before running this scripts, please, install and configure lynx and mailx in your system
 
 NETADDRESS="http://www.meuip.com.br" # Brazilian website to discover public IP address on clients without fixed IP
 
@@ -19,3 +20,4 @@ if [ ${IPADDR}: != ${CURRENT_IPADDR}: ]; then
   echo ${CURRENT_IPADDR} > ${LOG}
   mailx -s "Client IP ${CLIENT}" ${ADM} < ${LOG}
 fi
+
