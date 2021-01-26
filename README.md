@@ -54,15 +54,18 @@ sh get_ip.sh
 * [Scraping Tweets Old version](encurtador.com.br/wELX5)
 * [Scraping Tweets](encurtador.com.br/mDKS2)
 * [Port Scan](encurtador.com.br/qtKSZ)
+* [Hangman Game](encurtador.com.br/osBUY)
+* [Verify Data](encurtador.com.br/gSY47)
+* [Ping ping](encurtador.com.br/hmpyP)
 
-***Shell Scripts***
+***Shell Scripts:***
 * [Get IP](encurtador.com.br/iIP02)
 * [Inventory](encurtador.com.br/bekIQ)
 
-**Visual Basic Script**
+**Visual Basic Script:**
 * [Inventory](encurtador.com.br/ehpPT)
 
-**Links:**
+**Links**
 * [LinkedIn](https://www.linkedin.com/in/edinorjr)
 ---
 
