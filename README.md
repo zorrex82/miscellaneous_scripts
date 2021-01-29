@@ -57,6 +57,7 @@ sh get_ip.sh
 * [Hangman Game](encurtador.com.br/osBUY)
 * [Verify Data](encurtador.com.br/gSY47)
 * [Ping ping](encurtador.com.br/hmpyP)
+* [Send Mail](encurtador.com.br/bBC78)
 
 ***Shell Scripts:***
 * [Get IP](encurtador.com.br/iIP02)
