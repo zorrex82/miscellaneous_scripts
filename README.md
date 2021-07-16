@@ -58,6 +58,8 @@ sh get_ip.sh
 * [Verify Data](encurtador.com.br/gSY47)
 * [Ping ping](encurtador.com.br/hmpyP)
 * [Send Mail](encurtador.com.br/bBC78)
+* [Socket Server](encurtador.com.br/bdmNW)
+* [Socket Client](encurtador.com.br/crCDX)
 
 ***Shell Scripts:***
 * [Get IP](encurtador.com.br/iIP02)
