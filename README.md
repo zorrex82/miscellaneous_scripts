@@ -49,7 +49,7 @@ sh get_ip.sh
 **Index**
 
 ***Python Scripts:***
-* [Connect to Oracle Database](encurtador.com.br/cyDK0)
+* [Connect to Oracle Database](https://github.com/zorrex82/miscellaneous_scripts/blob/master/db_oracle_connect.py)
 * [Scraping Facebook](encurtador.com.br/iyA36)
 * [Scraping Tweets Old version](encurtador.com.br/wELX5)
 * [Scraping Tweets](encurtador.com.br/mDKS2)
