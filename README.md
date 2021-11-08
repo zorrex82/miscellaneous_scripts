@@ -50,23 +50,23 @@ sh get_ip.sh
 
 ***Python Scripts:***
 * [Connect to Oracle Database](https://github.com/zorrex82/miscellaneous_scripts/blob/master/db_oracle_connect.py)
-* [Scraping Facebook](encurtador.com.br/iyA36)
-* [Scraping Tweets Old version](encurtador.com.br/wELX5)
-* [Scraping Tweets](encurtador.com.br/mDKS2)
-* [Port Scan](encurtador.com.br/qtKSZ)
-* [Hangman Game](encurtador.com.br/osBUY)
-* [Verify Data](encurtador.com.br/gSY47)
-* [Ping ping](encurtador.com.br/hmpyP)
-* [Send Mail](encurtador.com.br/bBC78)
-* [Socket Server](encurtador.com.br/bdmNW)
-* [Socket Client](encurtador.com.br/crCDX)
+* [Scraping Facebook](https://github.com/zorrex82/miscellaneous_scripts/blob/master/facebook_scraping_page.py)
+* [Scraping Tweets Old version](https://github.com/zorrex82/miscellaneous_scripts/blob/master/getOldTweets.py)
+* [Scraping Tweets](https://github.com/zorrex82/miscellaneous_scripts/blob/master/scraping_tweets.py)
+* [Port Scan](https://github.com/zorrex82/miscellaneous_scripts/blob/master/portscan.py)
+* [Hangman Game](https://github.com/zorrex82/miscellaneous_scripts/blob/master/hangman.py)
+* [Verify Data](https://github.com/zorrex82/miscellaneous_scripts/blob/master/verify_data.py)
+* [Ping pong](https://github.com/zorrex82/miscellaneous_scripts/blob/master/ping_pong.py)
+* [Send Mail](https://github.com/zorrex82/miscellaneous_scripts/blob/master/mail.py)
+* [Socket Server](https://github.com/zorrex82/miscellaneous_scripts/blob/master/importData.py)
+* [Socket Client](https://github.com/zorrex82/miscellaneous_scripts/blob/master/insertData.py)
 
 ***Shell Scripts:***
-* [Get IP](encurtador.com.br/iIP02)
-* [Inventory](encurtador.com.br/bekIQ)
+* [Get IP](https://github.com/zorrex82/miscellaneous_scripts/blob/master/get_ip.sh)
+* [Inventory](https://github.com/zorrex82/miscellaneous_scripts/blob/master/inventory.sh)
 
 **Visual Basic Script:**
-* [Inventory](encurtador.com.br/ehpPT)
+* [Inventory](https://github.com/zorrex82/miscellaneous_scripts/blob/master/inventory.vbs)
 
 **Links**
 * [LinkedIn](https://www.linkedin.com/in/edinorjr)
